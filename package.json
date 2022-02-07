@@ -1,6 +1,6 @@
 {
   "name": "pixel-html-quiz",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Test your HTML knowledge with this simple HTML quiz!",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
     "gradient-string": "^2.0.0",
     "inquirer": "^8.2.0",
     "nanospinner": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PixelPasta/Pixel-HTML-Quiz.git"
   }
 }
