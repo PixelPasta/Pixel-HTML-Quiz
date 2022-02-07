@@ -1,9 +1,9 @@
 <center><h1> Pixel HTML Quiz </h1>
 </center>
-<h3> Test Your HTML knowledge inside CMD or Windows Terminal <br>
+<h3> Test Your HTML knowledge inside your PC's terminal. <br>
 <hr>
 How to play - 
-<li>Open CMD or Windows Terminal
+<li>Open the terminal of your choice.
 <li>Enter This Command "npx pixel-html-quiz"
 <li>It will prompt you to install the packages, type yes and press enter.
 <li>Enjoy!
