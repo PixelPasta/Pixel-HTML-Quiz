@@ -4,13 +4,13 @@
   "description": "Test your HTML knowledge with this simple HTML quiz!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "bin": "./index.js",
   "type": "module",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["HTML", "Quiz"],
+  "author": "PixelPasta",
+  "license": "GNU General Public License v3.0",
   "dependencies": {
     "chalk": "^5.0.0",
     "chalk-animation": "^1.6.0",
