@@ -38,7 +38,7 @@ async function welcome() {
    ${chalk.bgRed("Instructions - ")}
    ${chalk.bgMagenta("Choose the correct options using the ← ↑ → ↓ keys.")}
    ${chalk.bgGreen("Press Enter to select the current option.")}
-   ${chalk.bgBlue("There are a total of 10 questions. Good Luck!")}
+   ${chalk.bgBlue("There are a total of 15 questions. Good Luck!")}
    `)
 }
 
