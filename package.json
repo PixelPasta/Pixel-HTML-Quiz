@@ -1,6 +1,6 @@
 {
   "name": "pixel-html-quiz",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Test your HTML knowledge with this simple HTML quiz!",
   "main": "index.js",
   "scripts": {
