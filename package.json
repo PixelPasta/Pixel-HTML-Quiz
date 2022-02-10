@@ -1,6 +1,6 @@
 {
   "name": "pixel-html-quiz",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Test your HTML knowledge with this simple HTML quiz!",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,10 @@
   },
   "bin": "./index.js",
   "type": "module",
-  "keywords": ["HTML", "Quiz"],
+  "keywords": [
+    "HTML",
+    "Quiz"
+  ],
   "author": "PixelPasta",
   "license": "GNU General Public License v3.0",
   "dependencies": {
