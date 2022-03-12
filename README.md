@@ -8,3 +8,4 @@ How to play -
 <li>It will prompt you to install the packages, type yes and press enter.
 <li>Enjoy!
 <hr>
+  <h1> Play it online: https://quiz.pixelpasta.ml/ </h1>
